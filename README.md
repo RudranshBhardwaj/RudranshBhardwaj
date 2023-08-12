@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudransh Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate SDET from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudranshbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="rudranshbhardwaj" /> </p>
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rudransh bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudransh bhardwaj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rudranshbhardwaj009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudranshbhardwaj009" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rudranshbhardwa2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rudranshbhardwa2" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/rudranshbhardwa2?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/rudranshbhardwa2?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
